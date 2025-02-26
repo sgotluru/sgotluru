@@ -11,10 +11,5 @@
 ![Docker](https://img.shields.io/badge/Docker-Containers-blue) ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)  
 ![Python](https://img.shields.io/badge/Python-Automation-yellow) ![SQL](https://img.shields.io/badge/SQL-Database-green)  
 
-## 📂 Projects
-- [Virtual Business Register (Python, SQLite)](github.com/sgotluru/virtual-business-register)
-- [AWS Terraform Automation](github.com/sgotluru/aws-terraform)
-
 ## 📫 Connect with Me
-- 📧 Email: [sreekarasarmag@gmail.com](mailto:sreekarasarmag@gmail.com)
 - 💼 LinkedIn: [sreekara-sarma-gotluru](https://www.linkedin.com/in/sreekara-sarma-gotluru/)
