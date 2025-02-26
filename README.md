@@ -1,9 +1,20 @@
-👋 Hi there! I'm Sreekara Gotluru, a graduate student in the Computer Science department at AUM. I'm still exploring my interests and figuring out what I want to specialize in, but one thing's for sure - I love solving problems and learning algorithms to do so.
+# Hi, I'm Sreekara Sarma Gotluru 👋
 
-🔧 With around 4 years of experience at TCS as a Systems Engineer, I worked extensively on UNIX server log management, access control, log reports, investigations, and prevention measures to maintain platform security. 
+🚀 Cloud & DevOps Engineer | AWS | SQL | Terraform | Kubernetes
 
-♟️ When I'm not coding, you can find me playing chess or badminton. I'm always eager to learn new things, whether it's about politics, arts, law, literature, or anything else that catches my interest. 
+🔹 4+ years of experience in SQL Database Administration & Cloud  
+🔹 Skilled in AWS, Terraform, CI/CD (Jenkins, GitHub Actions)  
+🔹 Passionate about automation, infrastructure as code, and cloud security  
 
-😶 Introvert by nature, pun intended! 
+## 🔧 Technologies & Tools
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange) ![Terraform](https://img.shields.io/badge/Terraform-IaC-blue)  
+![Docker](https://img.shields.io/badge/Docker-Containers-blue) ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)  
+![Python](https://img.shields.io/badge/Python-Automation-yellow) ![SQL](https://img.shields.io/badge/SQL-Database-green)  
 
-Let's connect and learn together! 
+## 📂 Projects
+- [Virtual Business Register (Python, SQLite)](github.com/sgotluru/virtual-business-register)
+- [AWS Terraform Automation](github.com/sgotluru/aws-terraform)
+
+## 📫 Connect with Me
+- 📧 Email: [sreekarasarmag@gmail.com](mailto:sreekarasarmag@gmail.com)
+- 💼 LinkedIn: [sreekara-sarma-gotluru](https://www.linkedin.com/in/sreekara-sarma-gotluru/)
