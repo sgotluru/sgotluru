@@ -1,15 +1,19 @@
-# Hi, I'm Sreekara Sarma Gotluru 👋
+# 👋 Hi, I'm Sreekara Sarma Gotluru
 
-🚀 Cloud & DevOps Engineer | AWS | SQL | Terraform | Kubernetes
+🚀 **DevOps & Cloud Engineer | AWS | Terraform | Kubernetes | Security & Automation**  
 
-🔹 4+ years of experience in SQL Database Administration & Cloud  
-🔹 Skilled in AWS, Terraform, CI/CD (Jenkins, GitHub Actions)  
-🔹 Passionate about automation, infrastructure as code, and cloud security  
+🔹 **Master's in Computer Science @ Auburn University at Montgomery**  
+🔹 **4+ years of experience in IAM, Security, and Compliance**  
+🔹 **Transitioning into Cloud & DevOps**  
 
-## 🔧 Technologies & Tools
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange) ![Terraform](https://img.shields.io/badge/Terraform-IaC-blue)  
-![Docker](https://img.shields.io/badge/Docker-Containers-blue) ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)  
-![Python](https://img.shields.io/badge/Python-Automation-yellow) ![SQL](https://img.shields.io/badge/SQL-Database-green)  
+## 🔧 Technologies & Tools:
+- **Cloud:** AWS (EC2, S3, Lambda, IAM, VPC, CloudFormation)
+- **DevOps:** Terraform, Kubernetes, Docker, Ansible, GitHub Actions, CI/CD
+- **Security:** IAM, PAM, SIEM (Splunk, CyberArk, Tanium)
+- **Scripting & Automation:** Python, Bash, PowerShell
+- **Monitoring:** Splunk, Prometheus, Grafana
 
-## 📫 Connect with Me
-- 💼 LinkedIn: [sreekara-sarma-gotluru](https://www.linkedin.com/in/sreekara-sarma-gotluru/)
+## 📌 Featured Projects:
+(Coming Soon)
+
+💬 Let's connect on **[LinkedIn](https://www.linkedin.com/in/sreekara-sarma-gotluru/)**  
